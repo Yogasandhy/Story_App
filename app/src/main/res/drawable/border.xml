@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Warna latar belakang EditText -->
+
+    <!-- Warna dan ketebalan garis tepi -->
+    <stroke android:color="#000000" android:width="2dp"/>
+
+    <!-- Radius sudut (jika Anda ingin sudut membulat) -->
+    <corners android:radius="4dp"/>
+</shape>

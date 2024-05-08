@@ -1,0 +1,10 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/map"
+        android:icon="@drawable/baseline_map_24"
+        app:showAsAction="ifRoom"
+        android:title="Map" />
+    <item android:id="@+id/ccc"
+        android:title="@string/logoutt"
+        app:showAsAction="never" />
+</menu>
